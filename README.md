@@ -1,3 +1,5 @@
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dev380&theme=gruvbox)
+
 ### hi there!
 
 - yet another developer.
